@@ -84,27 +84,27 @@ function GetItens(){
     return(
         <div>
             <form>
-            <div className="row mt-3 align-items-center">
-                <div className="col-sm-12 col-md-auto">
-                    <label htmlFor="searchInput" className="col-form-label">Buscar:</label>
+                <div className="row mt-3 align-items-center">
+                    <div className="col-sm-12 col-md-auto">
+                        <label htmlFor="searchInput" className="col-form-label">Buscar:</label>
+                    </div>
+                    <div className="col-sm-12 col-md-auto mb-2 mb-sm-0">
+                        <input type="text" id="searchInput" className="form-control"
+                        onChange={filterTable}/>
+                    </div>
+                    <div className="col-sm-12 col-md-auto mb-2 mb-sm-0">
+                        <select className="form-select" aria-label="Default select example"
+                        onChange={filterChangeHeader}>
+                            <option defaultValue value="item_name">Escolha o campo</option>
+                            <option value="item_name">Nome do item</option>
+                            <option value="item_price">Preço do item</option>
+                            <option value="item_pagedmgmm">Página DMG/MM</option>
+                            <option value="item_rarity">Raridade</option>
+                        </select>
+                    </div>
                 </div>
-                <div className="col-sm-12 col-md-auto mb-2 mb-sm-0">
-                    <input type="text" id="searchInput" className="form-control"
-                    onChange={filterTable}/>
-                </div>
-                <div className="col-sm-12 col-md-auto mb-2 mb-sm-0">
-                    <select className="form-select" aria-label="Default select example"
-                    onChange={filterChangeHeader}>
-                        <option defaultValue value="item_name">Escolha o campo</option>
-                        <option value="item_name">Nome do item</option>
-                        <option value="item_price">Preço do item</option>
-                        <option value="item_pagedmgmm">Página DMG/MM</option>
-                        <option value="item_rarity">Raridade</option>
-                    </select>
-                </div>
-            </div>
             </form>
-            <table className="table table-dark table-striped">
+            <table className="table table-dark table-striped mb-3">
                 <thead>
                     <tr>
                         {listItensHeader.map((header, idx)=>(
