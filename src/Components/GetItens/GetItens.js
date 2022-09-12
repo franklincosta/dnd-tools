@@ -104,7 +104,7 @@ function GetItens(){
                     </div>
                 </div>
             </form>
-            <table className="table table-dark table-striped mb-3">
+            <table className="table table-dark table-striped mt-3">
                 <thead>
                     <tr>
                         {listItensHeader.map((header, idx)=>(
