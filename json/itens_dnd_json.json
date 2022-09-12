@@ -1,0 +1,2466 @@
+[
+    {
+      "_id": "631c135f2c6f4216c91339eb",
+      "item_name": "Amuleto dos Planos",
+      "item_price": "160000",
+      "item_pagedmgmm": "150",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c91339ee",
+      "item_name": "Anel da Regeneração",
+      "item_price": "12000",
+      "item_pagedmgmm": "191",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c91339f1",
+      "item_name": "Anel da Telecinese",
+      "item_price": "80000",
+      "item_pagedmgmm": "193",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c91339f4",
+      "item_name": "Anel de Comandar Elementais da Terra",
+      "item_price": "31000",
+      "item_pagedmgmm": "190",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c91339f7",
+      "item_name": "Anel de Comandar Elementais do Ar",
+      "item_price": "35000",
+      "item_pagedmgmm": "190",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c91339fa",
+      "item_name": "Armadura +1",
+      "item_price": "1500",
+      "item_pagedmgmm": "152",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c91339fd",
+      "item_name": "Armadura +2",
+      "item_price": "6000",
+      "item_pagedmgmm": "152",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c9133a00",
+      "item_name": "Armadura +3",
+      "item_price": "24000",
+      "item_pagedmgmm": "152",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c9133a03",
+      "item_name": "Armadura Anã",
+      "item_price": "9000",
+      "item_pagedmgmm": "167",
+      "item_rarity": "Muito Rara",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c9133a06",
+      "item_name": "Armadura da Invulnerabilidade",
+      "item_price": "18000",
+      "item_pagedmgmm": "152",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c9133a09",
+      "item_name": "Asas Voadoras",
+      "item_price": "5000",
+      "item_pagedmgmm": "214",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c9133a0c",
+      "item_name": "Bastão de Segurança",
+      "item_price": "90000",
+      "item_pagedmgmm": "197",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c9133a0f",
+      "item_name": "Bola de Cristal",
+      "item_price": "50000",
+      "item_pagedmgmm": "159",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c9133a12",
+      "item_name": "Botas Aladas",
+      "item_price": "8000",
+      "item_pagedmgmm": "214 / 327",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c9133a15",
+      "item_name": "Cajado do Poder",
+      "item_price": "95500",
+      "item_pagedmgmm": "202",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c9133a18",
+      "item_name": "Capa da Invisibilidade",
+      "item_price": "80000",
+      "item_pagedmgmm": "158",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c135f2c6f4216c9133a1b",
+      "item_name": "Corcel de Obisidiana",
+      "item_price": "128000",
+      "item_pagedmgmm": "170 / 235",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a1e",
+      "item_name": "Coruja de Serpentina",
+      "item_price": "8000",
+      "item_pagedmgmm": "170",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a21",
+      "item_name": "Cubo de Portal",
+      "item_price": "40000",
+      "item_pagedmgmm": "160",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a24",
+      "item_name": "Decantador de Água Infinita",
+      "item_price": "135000",
+      "item_pagedmgmm": "160",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a27",
+      "item_name": "Defensora",
+      "item_price": "24000",
+      "item_pagedmgmm": "164",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a2a",
+      "item_name": "Elmo do Teleporte",
+      "item_price": "64000",
+      "item_pagedmgmm": "174",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a2d",
+      "item_name": "Escudo +1",
+      "item_price": "1500",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a30",
+      "item_name": "Escudo +2",
+      "item_price": "6000",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a33",
+      "item_name": "Escudo +3",
+      "item_price": "24000",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a36",
+      "item_name": "Esfera da Aniquilação",
+      "item_price": "15000",
+      "item_pagedmgmm": "201",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a39",
+      "item_name": "Fortaleza Instantânea de Daern",
+      "item_price": "75000",
+      "item_pagedmgmm": "160",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a3c",
+      "item_name": "Grifo de Bronze",
+      "item_price": "8000",
+      "item_pagedmgmm": "169",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a3f",
+      "item_name": "Jarro de Alquimia",
+      "item_price": "6000",
+      "item_pagedmgmm": "150",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a42",
+      "item_name": "Mosca de Ébano",
+      "item_price": "6000",
+      "item_pagedmgmm": "169",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a45",
+      "item_name": "Pedras de Mensagem",
+      "item_price": "2000",
+      "item_pagedmgmm": "199",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a48",
+      "item_name": "Poção da Longevidade",
+      "item_price": "9000",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a4b",
+      "item_name": "Robe do Arquimago",
+      "item_price": "34000",
+      "item_pagedmgmm": "194",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a4e",
+      "item_name": "Talismã da Esfera",
+      "item_price": "20000",
+      "item_pagedmgmm": "207",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a51",
+      "item_name": "Tapete Voador",
+      "item_price": "12000",
+      "item_pagedmgmm": "157",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13602c6f4216c9133a54",
+      "item_name": "Vassoura Voadora",
+      "item_price": "8000",
+      "item_pagedmgmm": "156 / 174",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d0f1",
+      "item_name": "Bacia de Comandar Elementais da Água",
+      "item_price": "8000",
+      "item_pagedmgmm": "156 / 125",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d0f4",
+      "item_name": "Braseiro de Comandar Elementais do Fogo",
+      "item_price": "8000",
+      "item_pagedmgmm": "156 / 125",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d0f7",
+      "item_name": "Cabra de Marfim (Terror)",
+      "item_price": "20000",
+      "item_pagedmgmm": "169 / 326",
+      "item_rarity": "Rare",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d0fa",
+      "item_name": "Cabra de Marfim (Trabalho)",
+      "item_price": "400",
+      "item_pagedmgmm": "169 / 326",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d0fd",
+      "item_name": "Cabra de Marfim (Viagem)",
+      "item_price": "1000",
+      "item_pagedmgmm": "169 / 336",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d100",
+      "item_name": "Cajado da Píton",
+      "item_price": "2000",
+      "item_pagedmgmm": "204 / 324",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d103",
+      "item_name": "Cão de Onyx",
+      "item_price": "3000",
+      "item_pagedmgmm": "170 / 332",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d106",
+      "item_name": "Corvo de Prata",
+      "item_price": "5000",
+      "item_pagedmgmm": "170 / 335",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d109",
+      "item_name": "Elefante de Mármore",
+      "item_price": "6000",
+      "item_pagedmgmm": "170 / 322",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d10c",
+      "item_name": "Incenso de Controlar Elementais do Ar",
+      "item_price": "8000",
+      "item_pagedmgmm": "158 / 124",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d10f",
+      "item_name": "Leões Dourados",
+      "item_price": "600",
+      "item_pagedmgmm": "169 / 331",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d112",
+      "item_name": "Pedra de Controlar Elementais da Terra",
+      "item_price": "8000",
+      "item_pagedmgmm": "205 / 124",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d115",
+      "item_name": "Trombeta de Bronze do Valhalla",
+      "item_price": "11200",
+      "item_pagedmgmm": "175 / 344",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d118",
+      "item_name": "Trombeta de Ferro do Valhalla",
+      "item_price": "14000",
+      "item_pagedmgmm": "175 / 344",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d11b",
+      "item_name": "Trombeta de Latão do Valhalla",
+      "item_price": "8400",
+      "item_pagedmgmm": "175 / 344",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13b85606cf12d579d11e",
+      "item_name": "Trombeta de Prata do Valhalla",
+      "item_price": "5600",
+      "item_pagedmgmm": "175 / 344",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d121",
+      "item_name": "Algemas Dimensionais",
+      "item_price": "3000",
+      "item_pagedmgmm": "165",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d124",
+      "item_name": "Aljava de Ehlonna",
+      "item_price": "1000",
+      "item_pagedmgmm": "189",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d127",
+      "item_name": "Amuleto de Proteção Contra Detecção e Localização",
+      "item_price": "20000",
+      "item_pagedmgmm": "150",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d12a",
+      "item_name": "Anel da Invisibilidade",
+      "item_price": "10000",
+      "item_pagedmgmm": "191",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d12d",
+      "item_name": "Anel da Natação",
+      "item_price": "3000",
+      "item_pagedmgmm": "193",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d130",
+      "item_name": "Anel da Queda Suave",
+      "item_price": "2000",
+      "item_pagedmgmm": "191",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d133",
+      "item_name": "Anel da Visão de Raio-X",
+      "item_price": "6000",
+      "item_pagedmgmm": "193",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d136",
+      "item_name": "Anel de Calor",
+      "item_price": "1000",
+      "item_pagedmgmm": "193",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d139",
+      "item_name": "Anel de Caminhar na Água",
+      "item_price": "1500",
+      "item_pagedmgmm": "193",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d13c",
+      "item_name": "Anel de Cativar animais",
+      "item_price": "4000",
+      "item_pagedmgmm": "189",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d13f",
+      "item_name": "Anel de Saltar",
+      "item_price": "2500",
+      "item_pagedmgmm": "191",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d142",
+      "item_name": "Anel do Escudo Mental",
+      "item_price": "16000",
+      "item_pagedmgmm": "191",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d145",
+      "item_name": "Armadura de Placas da Forma Etérea",
+      "item_price": "48000",
+      "item_pagedmgmm": "185",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d148",
+      "item_name": "Armadura do Marinheiro",
+      "item_price": "1500",
+      "item_pagedmgmm": "181",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d14b",
+      "item_name": "Barco Dobrável",
+      "item_price": "10000",
+      "item_pagedmgmm": "170",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d14e",
+      "item_name": "Bastão da Obediência",
+      "item_price": "16000",
+      "item_pagedmgmm": "197",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d151",
+      "item_name": "Bastão Imóvel",
+      "item_price": "5000",
+      "item_pagedmgmm": "175",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d154",
+      "item_name": "Botas da Levitação",
+      "item_price": "4000",
+      "item_pagedmgmm": "155",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d157",
+      "item_name": "Botas de Caminhar e Saltar",
+      "item_price": "5000",
+      "item_pagedmgmm": "156",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d15a",
+      "item_name": "Botas do Inverno",
+      "item_price": "10000",
+      "item_pagedmgmm": "156",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d15d",
+      "item_name": "Botas Élficas",
+      "item_price": "2500",
+      "item_pagedmgmm": "155",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d160",
+      "item_name": "Buraco Portátil",
+      "item_price": "8000",
+      "item_pagedmgmm": "185",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d163",
+      "item_name": "Capa de Respirar na Água",
+      "item_price": "1000",
+      "item_pagedmgmm": "157",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d166",
+      "item_name": "Capa do Saltimbanco",
+      "item_price": "8000",
+      "item_pagedmgmm": "157",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d169",
+      "item_name": "Chapéu do Disfarce",
+      "item_price": "5000",
+      "item_pagedmgmm": "173",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d16c",
+      "item_name": "Colar da Adaptação",
+      "item_price": "1500",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d16f",
+      "item_name": "Corda de Escalada",
+      "item_price": "2000",
+      "item_pagedmgmm": "197",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d172",
+      "item_name": "Cubo de Força",
+      "item_price": "16000",
+      "item_pagedmgmm": "159",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d175",
+      "item_name": "Dispositivo de Kwalish",
+      "item_price": "10000",
+      "item_pagedmgmm": "151",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d178",
+      "item_name": "Elmo da Compreensão de Idiomas",
+      "item_price": "500",
+      "item_pagedmgmm": "173",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d17b",
+      "item_name": "Elmo da Telepatia",
+      "item_price": "12000",
+      "item_pagedmgmm": "174",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d17e",
+      "item_name": "Espelho do Aprisionamento",
+      "item_price": "18000",
+      "item_pagedmgmm": "181",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d181",
+      "item_name": "Ferraduras da Velocidade",
+      "item_price": "5000",
+      "item_pagedmgmm": "175",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d184",
+      "item_name": "Ferraduras do Zéfiro",
+      "item_price": "1500",
+      "item_pagedmgmm": "175",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d187",
+      "item_name": "Garrafa da Fumaça Eterna",
+      "item_price": "1000",
+      "item_pagedmgmm": "168",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d18a",
+      "item_name": "Gema da Visão",
+      "item_price": "32000",
+      "item_pagedmgmm": "172",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d18d",
+      "item_name": "Globo de Fluxo",
+      "item_price": "750",
+      "item_pagedmgmm": "166",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d190",
+      "item_name": "Lanterna de Revelação",
+      "item_price": "5000",
+      "item_pagedmgmm": "179",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d193",
+      "item_name": "Luvas de Nadar e Escalar",
+      "item_price": "2000",
+      "item_pagedmgmm": "172",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d196",
+      "item_name": "Luvas do Ladrão",
+      "item_price": "5000",
+      "item_pagedmgmm": "172",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d199",
+      "item_name": "Manto da Aranha",
+      "item_price": "5000",
+      "item_pagedmgmm": "158",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d19c",
+      "item_name": "Manto da Arraia",
+      "item_price": "6000",
+      "item_pagedmgmm": "159",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d19f",
+      "item_name": "Manto do Morcego",
+      "item_price": "6000",
+      "item_pagedmgmm": "159",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1a2",
+      "item_name": "Manto Élfico",
+      "item_price": "5000",
+      "item_pagedmgmm": "158",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1a5",
+      "item_name": "Medalhão de Pensamentos",
+      "item_price": "3000",
+      "item_pagedmgmm": "181",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1a8",
+      "item_name": "Mochila de Carga",
+      "item_price": "4000",
+      "item_pagedmgmm": "153",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1ab",
+      "item_name": "Óculos Noturnos",
+      "item_price": "1500",
+      "item_pagedmgmm": "172",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1ae",
+      "item_name": "Olhos de Águia",
+      "item_price": "2500",
+      "item_pagedmgmm": "168",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1b1",
+      "item_name": "Olhos de Visão Momentânea",
+      "item_price": "2500",
+      "item_pagedmgmm": "168",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1b4",
+      "item_name": "Olhos do Encantamento",
+      "item_price": "3000",
+      "item_pagedmgmm": "168",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1b7",
+      "item_name": "Pedra Iônica do Sustento",
+      "item_price": "1000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1ba",
+      "item_name": "Periapto da Saúde",
+      "item_price": "5000",
+      "item_pagedmgmm": "184",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1bd",
+      "item_name": "Periapto de Proteção Contra Veneno",
+      "item_price": "5000",
+      "item_pagedmgmm": "184",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1c0",
+      "item_name": "Robe dos Olhos",
+      "item_price": "30000",
+      "item_pagedmgmm": "193",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1c3",
+      "item_name": "Sacola Prestativa de Heward",
+      "item_price": "2000",
+      "item_pagedmgmm": "174",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1c6",
+      "item_name": "Sandálias das Patas de Aranha",
+      "item_price": "5000",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1c9",
+      "item_name": "Tridente de Comandar Peixer",
+      "item_price": "800",
+      "item_pagedmgmm": "209",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1cc",
+      "item_name": "Varinha de Detectar Magia",
+      "item_price": "1500",
+      "item_pagedmgmm": "211",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13c45606cf12d579d1cf",
+      "item_name": "Varinha dos Segredos",
+      "item_price": "1500",
+      "item_pagedmgmm": "211",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1d2",
+      "item_name": "Adaga de Envenenamento",
+      "item_price": "2500",
+      "item_pagedmgmm": "160",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1d5",
+      "item_name": "Amuleto de Saúde",
+      "item_price": "8000",
+      "item_pagedmgmm": "150",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1d8",
+      "item_name": "Anel da Ação Livre",
+      "item_price": "20000",
+      "item_pagedmgmm": "191",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1db",
+      "item_name": "Anel da Evasão",
+      "item_price": "5000",
+      "item_pagedmgmm": "191",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1de",
+      "item_name": "Anel de Armazenar Magias",
+      "item_price": "24000",
+      "item_pagedmgmm": "192",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1e1",
+      "item_name": "Anel de Comandar Elementais da Água",
+      "item_price": "25000",
+      "item_pagedmgmm": "191",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1e4",
+      "item_name": "Anel de Comandar Elementais do Fogo",
+      "item_price": "17000",
+      "item_pagedmgmm": "190",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1e7",
+      "item_name": "Anel de Estrelas Cadentes",
+      "item_price": "14000",
+      "item_pagedmgmm": "192",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1ea",
+      "item_name": "Anel de Proteção",
+      "item_price": "3500",
+      "item_pagedmgmm": "191",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1ed",
+      "item_name": "Anel de Refletir Magias",
+      "item_price": "30000",
+      "item_pagedmgmm": "193",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1f0",
+      "item_name": "Anel de Resistência",
+      "item_price": "6000",
+      "item_pagedmgmm": "192",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1f3",
+      "item_name": "Anel do Aríete",
+      "item_price": "5000",
+      "item_pagedmgmm": "193",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1f6",
+      "item_name": "Arco do Juramento",
+      "item_price": "3500",
+      "item_pagedmgmm": "183",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1f9",
+      "item_name": "Arma +1",
+      "item_price": "1000",
+      "item_pagedmgmm": "213",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1fc",
+      "item_name": "Arma +2",
+      "item_price": "4000",
+      "item_pagedmgmm": "213",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d1ff",
+      "item_name": "Arma +3",
+      "item_price": "16000",
+      "item_pagedmgmm": "213",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d202",
+      "item_name": "Arma do Alerta",
+      "item_price": "60000",
+      "item_pagedmgmm": "213",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d205",
+      "item_name": "Arma Viciada",
+      "item_price": "350",
+      "item_pagedmgmm": "209",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d208",
+      "item_name": "Armadura de Adamante",
+      "item_price": "500",
+      "item_pagedmgmm": "150",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d20b",
+      "item_name": "Armadura de Couro Batido Encantada",
+      "item_price": "2000",
+      "item_pagedmgmm": "172",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d20e",
+      "item_name": "Armadura de Mitral",
+      "item_price": "800",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d211",
+      "item_name": "Armadura de Resistência",
+      "item_price": "6000",
+      "item_pagedmgmm": "152",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d214",
+      "item_name": "Arremessador Anão",
+      "item_price": "18000",
+      "item_pagedmgmm": "167",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d217",
+      "item_name": "Azagaia do Relâmpago",
+      "item_price": "1500",
+      "item_pagedmgmm": "178",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d21a",
+      "item_name": "Bastão da Prontidão",
+      "item_price": "25000",
+      "item_pagedmgmm": "195",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d21d",
+      "item_name": "Bastão do Grande Poder",
+      "item_price": "28000",
+      "item_pagedmgmm": "195",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d220",
+      "item_name": "Bastão do Tentáculo",
+      "item_price": "5000",
+      "item_pagedmgmm": "208",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d223",
+      "item_name": "Bastão guardião de pactos +1",
+      "item_price": "12000",
+      "item_pagedmgmm": "197",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d226",
+      "item_name": "Bastão guardião de pactos +2",
+      "item_price": "16000",
+      "item_pagedmgmm": "197",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d229",
+      "item_name": "Bastão guardião de pactos +3",
+      "item_price": "28000",
+      "item_pagedmgmm": "197",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d22c",
+      "item_name": "Botas da Velocidade",
+      "item_price": "4000",
+      "item_pagedmgmm": "144",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d22f",
+      "item_name": "Braçadeiras da Arquearia",
+      "item_price": "1500",
+      "item_pagedmgmm": "156",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d232",
+      "item_name": "Braçadeiras de Defesa",
+      "item_price": "6000",
+      "item_pagedmgmm": "156",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d235",
+      "item_name": "Broche do Escudo",
+      "item_price": "7500",
+      "item_pagedmgmm": "158",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d238",
+      "item_name": "Brunea de Escamas de Dragão",
+      "item_price": "4000",
+      "item_pagedmgmm": "165",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d23b",
+      "item_name": "Cajado da Víbora",
+      "item_price": "1800",
+      "item_pagedmgmm": "203",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d23e",
+      "item_name": "Cajado das Florestas",
+      "item_price": "44000",
+      "item_pagedmgmm": "204",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d241",
+      "item_name": "Cajado de Ataque",
+      "item_price": "21000",
+      "item_pagedmgmm": "203",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d244",
+      "item_name": "Cajado de Cura",
+      "item_price": "13000",
+      "item_pagedmgmm": "202",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d247",
+      "item_name": "Cajado de Enfeitiçar",
+      "item_price": "12000",
+      "item_pagedmgmm": "201",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d24a",
+      "item_name": "Cajado de Trovão e Relâmpago",
+      "item_price": "10000",
+      "item_pagedmgmm": "204",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d24d",
+      "item_name": "Cajado do Definhamento",
+      "item_price": "3000",
+      "item_pagedmgmm": "205",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d250",
+      "item_name": "Cajado do Enxame de Insetos",
+      "item_price": "16000",
+      "item_pagedmgmm": "203",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d253",
+      "item_name": "Cajado do Fogo",
+      "item_price": "16000",
+      "item_pagedmgmm": "201",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d256",
+      "item_name": "Cajado do Frio",
+      "item_price": "26000",
+      "item_pagedmgmm": "201",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d259",
+      "item_name": "Capa do Deslocamento",
+      "item_price": "60000",
+      "item_pagedmgmm": "158",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d25c",
+      "item_name": "Cimitarra de Velocidade",
+      "item_price": "6000",
+      "item_pagedmgmm": "199",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d25f",
+      "item_name": "Cinto dos Anões",
+      "item_price": "6000",
+      "item_pagedmgmm": "155",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d262",
+      "item_name": "Colar de Contas de Oração - Abençoar",
+      "item_price": "2000",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d265",
+      "item_name": "Colar de Contas de Oração - Auxiliar",
+      "item_price": "32000",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d268",
+      "item_name": "Colar de Contas de Oração - Caminhar no Vento",
+      "item_price": "96000",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d26b",
+      "item_name": "Colar de Contas de Oração - Curar",
+      "item_price": "4000",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d26e",
+      "item_name": "Colar de Contas de Oração - Destruir",
+      "item_price": "1500",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d271",
+      "item_name": "Colar de Contas de Oração - Invocar",
+      "item_price": "128000",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d274",
+      "item_name": "Corda de Estrangulamento",
+      "item_price": "4000",
+      "item_pagedmgmm": "197",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d277",
+      "item_name": "Diadema da Destruição",
+      "item_price": "1500",
+      "item_pagedmgmm": "158",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d27a",
+      "item_name": "Escaravelho de Proteção",
+      "item_price": "36000",
+      "item_pagedmgmm": "199",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d27d",
+      "item_name": "Escudo Animado",
+      "item_price": "6000",
+      "item_pagedmgmm": "151",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d280",
+      "item_name": "Escudo Apanhador de Flechas",
+      "item_price": "6000",
+      "item_pagedmgmm": "152",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d283",
+      "item_name": "Escudo da Atração de Projéteis",
+      "item_price": "6000",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d286",
+      "item_name": "Escudo de Proteção Contra Magias",
+      "item_price": "50000",
+      "item_pagedmgmm": "201",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d289",
+      "item_name": "Escudo Sentinela",
+      "item_price": "20000",
+      "item_pagedmgmm": "199",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d28c",
+      "item_name": "Espada da Retaliação",
+      "item_price": "36000",
+      "item_pagedmgmm": "206",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d28f",
+      "item_name": "Espada Dançarina",
+      "item_price": "2000",
+      "item_pagedmgmm": "160",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d292",
+      "item_name": "Espada Decepadora",
+      "item_price": "1700",
+      "item_pagedmgmm": "206",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d295",
+      "item_name": "Espada do Sangramento",
+      "item_price": "2000",
+      "item_pagedmgmm": "207",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d298",
+      "item_name": "Espada Ladra de Vidas",
+      "item_price": "1000",
+      "item_pagedmgmm": "206",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d29b",
+      "item_name": "Espada Vorpal",
+      "item_price": "24000",
+      "item_pagedmgmm": "209",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d29e",
+      "item_name": "Faixas de Ferro de Bilarro",
+      "item_price": "4000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2a1",
+      "item_name": "Flauta Assombrada",
+      "item_price": "6000",
+      "item_pagedmgmm": "185",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2a4",
+      "item_name": "Flauta dos Esgotos",
+      "item_price": "2000",
+      "item_pagedmgmm": "185",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2a7",
+      "item_name": "Instrumento de Bardo - Alaúde de Doss",
+      "item_price": "28500",
+      "item_pagedmgmm": "176",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2aa",
+      "item_name": "Instrumento de Bardo - Bandolim de Fochlucan",
+      "item_price": "26500",
+      "item_pagedmgmm": "176",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2ad",
+      "item_name": "Instrumento de Bardo - Citara de Mac- Fuirmidh",
+      "item_price": "27000",
+      "item_pagedmgmm": "176",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2b0",
+      "item_name": "Instrumento de Bardo - Harpa de Anstruth",
+      "item_price": "109000",
+      "item_pagedmgmm": "176",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2b3",
+      "item_name": "Instrumento de Bardo - Harpa de Ollamh",
+      "item_price": "125000",
+      "item_pagedmgmm": "176",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2b6",
+      "item_name": "Instrumento de Bardo - Lira de Cli",
+      "item_price": "35000",
+      "item_pagedmgmm": "176",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2b9",
+      "item_name": "Instrumento de Bardo - Mandolim de Canaith",
+      "item_price": "30000",
+      "item_pagedmgmm": "176",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2bc",
+      "item_name": "Ladra das Nove Vidas",
+      "item_price": "8000",
+      "item_pagedmgmm": "183",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2bf",
+      "item_name": "Lâmina do Sol",
+      "item_price": "12000",
+      "item_pagedmgmm": "205",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2c2",
+      "item_name": "Leque de Vento",
+      "item_price": "1500",
+      "item_pagedmgmm": "213",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2c5",
+      "item_name": "Língua de Fogo",
+      "item_price": "5000",
+      "item_pagedmgmm": "170",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2c8",
+      "item_name": "Luvas de Apanhar Projéteis",
+      "item_price": "3000",
+      "item_pagedmgmm": "172",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2cb",
+      "item_name": "Maça da Destruição",
+      "item_price": "7000",
+      "item_pagedmgmm": "179",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2ce",
+      "item_name": "Maça do Rompimento",
+      "item_price": "8000",
+      "item_pagedmgmm": "179",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2d1",
+      "item_name": "Maça do Terror",
+      "item_price": "8000",
+      "item_pagedmgmm": "180",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2d4",
+      "item_name": "Malha do Efreeti",
+      "item_price": "20000",
+      "item_pagedmgmm": "167",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2d7",
+      "item_name": "Malha Élfica",
+      "item_price": "4000",
+      "item_pagedmgmm": "168",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2da",
+      "item_name": "Manopla da Força do Ogro",
+      "item_price": "8000",
+      "item_pagedmgmm": "171",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2dd",
+      "item_name": "Manto de Proteção",
+      "item_price": "3500",
+      "item_pagedmgmm": "159",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2e0",
+      "item_name": "Manto de Resistência à Magia",
+      "item_price": "30000",
+      "item_pagedmgmm": "180",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2e3",
+      "item_name": "Marca Congelante",
+      "item_price": "2200",
+      "item_pagedmgmm": "171",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2e6",
+      "item_name": "Martelo dos Trovões",
+      "item_price": "16000",
+      "item_pagedmgmm": "173",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2e9",
+      "item_name": "Mata Dragão",
+      "item_price": "8000",
+      "item_pagedmgmm": "166",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2ec",
+      "item_name": "Mata Gigantes",
+      "item_price": "7000",
+      "item_pagedmgmm": "172",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2ef",
+      "item_name": "Pedra da Sorte",
+      "item_price": "4200",
+      "item_pagedmgmm": "205",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2f2",
+      "item_name": "Pedra Iônica da Agilidade",
+      "item_price": "3000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2f5",
+      "item_name": "Pedra Iônica da Força",
+      "item_price": "3000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2f8",
+      "item_name": "Pedra Iônica da Fortitude",
+      "item_price": "3000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2fb",
+      "item_name": "Pedra Iônica da Intuição",
+      "item_price": "3000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d2fe",
+      "item_name": "Pedra Iônica da Liderança",
+      "item_price": "3000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d301",
+      "item_name": "Pedra Iônica da Maestria",
+      "item_price": "15000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d304",
+      "item_name": "Pedra Iônica da Prontidão",
+      "item_price": "12000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d307",
+      "item_name": "Pedra Iônica da Proteção",
+      "item_price": "1200",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d30a",
+      "item_name": "Pedra Iônica da Regeneração",
+      "item_price": "4000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d30d",
+      "item_name": "Pedra Iônica do Armazenamento",
+      "item_price": "6000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d310",
+      "item_name": "Pedra Iônica do Intelecto",
+      "item_price": "3000",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d313",
+      "item_name": "Periapto de Cicatrização",
+      "item_price": "5000",
+      "item_pagedmgmm": "184",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d316",
+      "item_name": "Pérola do Poder",
+      "item_price": "6000",
+      "item_pagedmgmm": "184",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d319",
+      "item_name": "Robe das Cores Cintilantes",
+      "item_price": "6000",
+      "item_pagedmgmm": "194",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d31c",
+      "item_name": "Robe das Estrelas",
+      "item_price": "60000",
+      "item_pagedmgmm": "194",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d31f",
+      "item_name": "Sela do Cavaleiro",
+      "item_price": "2000",
+      "item_pagedmgmm": "199",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d322",
+      "item_name": "Tiara do Intelecto",
+      "item_price": "8000",
+      "item_pagedmgmm": "173",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d325",
+      "item_name": "Varinha da Obrigação",
+      "item_price": "10000",
+      "item_pagedmgmm": "209",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d328",
+      "item_name": "Varinha da Paralisia",
+      "item_price": "16000",
+      "item_pagedmgmm": "211",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d32b",
+      "item_name": "Varinha de Bolas de Fogo",
+      "item_price": "32000",
+      "item_pagedmgmm": "210",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d32e",
+      "item_name": "Varinha de Detecção de Inimigos",
+      "item_price": "4000",
+      "item_pagedmgmm": "210",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d331",
+      "item_name": "Varinha de Medo",
+      "item_price": "10000",
+      "item_pagedmgmm": "210",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d334",
+      "item_name": "Varinha de Metamorfose",
+      "item_price": "32000",
+      "item_pagedmgmm": "211",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d337",
+      "item_name": "Varinha de Mísseis Mágicos",
+      "item_price": "8000",
+      "item_pagedmgmm": "211",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d33a",
+      "item_name": "Varinha de Relâmpagos",
+      "item_price": "32000",
+      "item_pagedmgmm": "211",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d33d",
+      "item_name": "Varinha de Teia",
+      "item_price": "8000",
+      "item_pagedmgmm": "212",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d340",
+      "item_name": "Varinha do Mago de Guerra +1",
+      "item_price": "1200",
+      "item_pagedmgmm": "212",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d343",
+      "item_name": "Varinha do Mago de Guerra +2",
+      "item_price": "4800",
+      "item_pagedmgmm": "212",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d346",
+      "item_name": "Varinha do Mago de Guerra +3",
+      "item_price": "19200",
+      "item_pagedmgmm": "212",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13cc5606cf12d579d349",
+      "item_name": "Vingadora Sagrada",
+      "item_price": "165000",
+      "item_pagedmgmm": "174",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d34c",
+      "item_name": "Baralho das Ilusões",
+      "item_price": "6120",
+      "item_pagedmgmm": "161",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d34f",
+      "item_name": "Bastão de Absorção",
+      "item_price": "50000",
+      "item_pagedmgmm": "195",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d352",
+      "item_name": "Carrilhão de Abertura",
+      "item_price": "1500",
+      "item_pagedmgmm": "158",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d355",
+      "item_name": "Cola Soberana",
+      "item_price": "400",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d358",
+      "item_name": "Colar de Bolas de Fogo (1 conta)",
+      "item_price": "300",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d35b",
+      "item_name": "Colar de Bolas de Fogo (2 contas)",
+      "item_price": "480",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d35e",
+      "item_name": "Colar de Bolas de Fogo (3 contas)",
+      "item_price": "960",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d361",
+      "item_name": "Colar de Bolas de Fogo (4 contas)",
+      "item_price": "1600",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d364",
+      "item_name": "Colar de Bolas de Fogo (5 contas)",
+      "item_price": "3840",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d367",
+      "item_name": "Colar de Bolas de Fogo (6 contas)",
+      "item_price": "7680",
+      "item_pagedmgmm": "182",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d36a",
+      "item_name": "Contas de Força",
+      "item_price": "960",
+      "item_pagedmgmm": "154",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d36d",
+      "item_name": "Elixir da Saúde",
+      "item_price": "120",
+      "item_pagedmgmm": "168",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d370",
+      "item_name": "Filtro do Amor",
+      "item_price": "90",
+      "item_pagedmgmm": "184",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d373",
+      "item_name": "Flecha Assassina (Cada)",
+      "item_price": "600",
+      "item_pagedmgmm": "152",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d376",
+      "item_name": "Gema Elemental",
+      "item_price": "960",
+      "item_pagedmgmm": "167",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d379",
+      "item_name": "Gema da Luminosidade",
+      "item_price": "5000",
+      "item_pagedmgmm": "171",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d37c",
+      "item_name": "Munição +1 (Cada)",
+      "item_price": "25",
+      "item_pagedmgmm": "150",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d37f",
+      "item_name": "Munição +2 (Cada)",
+      "item_price": "100",
+      "item_pagedmgmm": "150",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d382",
+      "item_name": "Munição +3 (Cada)",
+      "item_price": "400",
+      "item_pagedmgmm": "150",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d385",
+      "item_name": "Óleo Escorregadio",
+      "item_price": "480",
+      "item_pagedmgmm": "184",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d388",
+      "item_name": "Óleo da Forma Etérea",
+      "item_price": "1920",
+      "item_pagedmgmm": "183",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d38b",
+      "item_name": "Óleo de Precisão",
+      "item_price": "3200",
+      "item_pagedmgmm": "184",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d38e",
+      "item_name": "Pedra Iônica da Absorção",
+      "item_price": "2400",
+      "item_pagedmgmm": "177",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d391",
+      "item_name": "Pergaminho de magia nível 0",
+      "item_price": "20",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Comum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d394",
+      "item_name": "Pergaminho de magia nível 1",
+      "item_price": "60",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Comum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d397",
+      "item_name": "Pergaminho de magia nível 2",
+      "item_price": "120",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d39a",
+      "item_name": "Pergaminho de magia nível 3",
+      "item_price": "200",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d39d",
+      "item_name": "Pergaminho de magia nível 4",
+      "item_price": "320",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3a0",
+      "item_name": "Pergaminho de magia nível 5",
+      "item_price": "640",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3a3",
+      "item_name": "Pergaminho de magia nível 6",
+      "item_price": "1280",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3a6",
+      "item_name": "Pergaminho de magia nível 7",
+      "item_price": "2560",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3a9",
+      "item_name": "Pergaminho de magia nível 8",
+      "item_price": "5120",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3ac",
+      "item_name": "Pergaminho de magia nível 9",
+      "item_price": "10240",
+      "item_pagedmgmm": "200",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3af",
+      "item_name": "Pergaminho de Proteção",
+      "item_price": "180",
+      "item_pagedmgmm": "199",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3b2",
+      "item_name": "Pigmentos Maravilhosos de Nolzur",
+      "item_price": "200",
+      "item_pagedmgmm": "183",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3b5",
+      "item_name": "Poção de Amizade Animal",
+      "item_price": "200",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3b8",
+      "item_name": "Poção de Aumentar",
+      "item_price": "270",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3bb",
+      "item_name": "Poção de Clarividência",
+      "item_price": "960",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3be",
+      "item_name": "Poção de Cura",
+      "item_price": "50",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Comum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3c1",
+      "item_name": "Poção de Cura Maior",
+      "item_price": "150",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3c4",
+      "item_name": "Poção de Cura Superior",
+      "item_price": "450",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3c7",
+      "item_name": "Poção de Cura Suprema",
+      "item_price": "1350",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3ca",
+      "item_name": "Poção de Encolher",
+      "item_price": "270",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3cd",
+      "item_name": "Poção de Envenenamento",
+      "item_price": "100",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3d0",
+      "item_name": "Poção de Escalar",
+      "item_price": "180",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Comum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3d3",
+      "item_name": "Poção de Forma Gasosa",
+      "item_price": "300",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3d6",
+      "item_name": "Poção do Heroísmo",
+      "item_price": "180",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3d9",
+      "item_name": "Poção de Invisibilidade",
+      "item_price": "180",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Muito Rara",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3dc",
+      "item_name": "Poção de Invulnerabilidade",
+      "item_price": "3840",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3df",
+      "item_name": "Poção de Ler Mentes",
+      "item_price": "180",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3e2",
+      "item_name": "Poção de Resistência",
+      "item_price": "300",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3e5",
+      "item_name": "Poção de Respirar na Água",
+      "item_price": "180",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3e8",
+      "item_name": "Poção do Sopro de Fogo",
+      "item_price": "150",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3eb",
+      "item_name": "Poção de Velocidade",
+      "item_price": "400",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3ee",
+      "item_name": "Poção de Vitalidade",
+      "item_price": "960",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3f1",
+      "item_name": "Poção de Vôo",
+      "item_price": "500",
+      "item_pagedmgmm": "187",
+      "item_rarity": "Muito Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3f4",
+      "item_name": "Pó de Espirrar e Tossir",
+      "item_price": "480",
+      "item_pagedmgmm": "166",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3f7",
+      "item_name": "Pó do Desaparecimento",
+      "item_price": "300",
+      "item_pagedmgmm": "166",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3fa",
+      "item_name": "Pó de Seca",
+      "item_price": "120",
+      "item_pagedmgmm": "166",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d3fd",
+      "item_name": "Pena de Quaal (Âncora)",
+      "item_price": "50",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d400",
+      "item_name": "Pena de Quaal (Árvore)",
+      "item_price": "150",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d403",
+      "item_name": "Pena de Quaal (Barco de Cisne)",
+      "item_price": "3000",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d406",
+      "item_name": "Pena de Quaal (Chicote)",
+      "item_price": "250",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d409",
+      "item_name": "Pena de Quaal (Leque)",
+      "item_price": "250",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c13dd5606cf12d579d40c",
+      "item_name": "Pena de Quaal (Pássaro)",
+      "item_price": "3000",
+      "item_pagedmgmm": "188",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c140249895be04dc5a82e",
+      "item_name": "Robe dos Itens Úteis",
+      "item_price": "Itens *5",
+      "item_pagedmgmm": "195",
+      "item_rarity": "Incomum",
+      "__v": 0
+    },
+    {
+      "_id": "631c140249895be04dc5a831",
+      "item_name": "Solvente Universal",
+      "item_price": "300",
+      "item_pagedmgmm": "209",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c140249895be04dc5a834",
+      "item_name": "Talismã do Mal Absoluto",
+      "item_price": "61440",
+      "item_pagedmgmm": "207",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c140249895be04dc5a837",
+      "item_name": "Talismã da Bondade Pura",
+      "item_price": "71680",
+      "item_pagedmgmm": "207",
+      "item_rarity": "Lendário",
+      "__v": 0
+    },
+    {
+      "_id": "631c140249895be04dc5a83a",
+      "item_name": "Trombeta da Destruição",
+      "item_price": "450",
+      "item_pagedmgmm": "174",
+      "item_rarity": "Raro",
+      "__v": 0
+    },
+    {
+      "_id": "631c140249895be04dc5a83d",
+      "item_name": "Unguento de Keoghtom",
+      "item_price": "120",
+      "item_pagedmgmm": "179",
+      "item_rarity": "Incomum",
+      "__v": 0
+    }
+  ]
