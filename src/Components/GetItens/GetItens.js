@@ -1,14 +1,13 @@
 import {useState, useEffect } from 'react';
 import { NumericFormat } from 'react-number-format';
-
-
 import axios from 'axios';
 function GetItens(){
     const [listItensHeader, setListItensHeader] = useState([
-        {header_name:'item_name',header_text:'Nome do Item', order:'asc'},
-        {header_name:'item_price',header_text:'Preço do Item', order:'asc'},
-        {header_name:'item_pagedmgmm',header_text:'Página DMG/MM', order:'asc'},
-        {header_name:'item_rarity',header_text:'Raridade', order:'asc'},
+        {header_name:'item_name',header_text:'Nome do Item', order:'desc'},
+        {header_name:'item_price',header_text:'Preço do Item', order:'desc'},
+        {header_name:'item_pagedmgmm',header_text:'Página DMG/MM', order:'desc'},
+        {header_name:'item_rarity',header_text:'Raridade', order:'desc'},
+        {header_name:'item_desc',header_text:'Descrição', order:'desc'},
     ]);
     const [listItens, setListItens] = useState([]);
     const [currentItens, setCurrentItens] = useState([]);
@@ -18,7 +17,7 @@ function GetItens(){
     const [fieldSearchFilter, setFieldSearchFilter] = useState("");
     const [headerSearchFilter, setHeaderSearchFilter] = useState(listItensHeader[0].header_name);
 
-    async function getItens(){
+    async function getItensDND(){
         //const res = await axios.get('http://localhost:3636/get-itens/itens-dnd');
         const res = await axios.get('./json/itens_dnd_json.json');
         let itensRes = res.data;
@@ -60,7 +59,7 @@ function GetItens(){
         setTotalPages(Math.ceil(listItens.length / itensPerPage));
     }
     useEffect(()=>{
-        getItens()
+        getItensDND()
         .then(function(){
             setItensPerPage(10);
             setOffsetItens();
@@ -70,12 +69,13 @@ function GetItens(){
     const handlePageClick = (event) => {
         const newOffset = (event.selected * itensPerPage) % listItens.length;
         setItemStart(newOffset);
-    };
+    }
+
     function filterTable(e){
         let textSearch = e.target.value;
         setFieldSearchFilter(textSearch);
-        console.log(headerSearchFilter);
     }
+
     function filterChangeHeader(e){
         let headerSearch = e.target.value || listItensHeader[0].header_name;
         setHeaderSearchFilter(headerSearch);
@@ -134,6 +134,7 @@ function GetItens(){
                            </td>
                             <td>{item.item_pagedmgmm}</td>
                             <td>{item.item_rarity}</td>
+                            <td dangerouslySetInnerHTML={{__html:item.item_desc}}></td>
                         </tr>
                     ))}
                 </tbody>

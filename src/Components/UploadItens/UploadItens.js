@@ -1,13 +1,15 @@
-import {useState} from 'react';
+import {useState, useEffect} from 'react';
 import axios from 'axios';
 import papacsv from 'papaparse';
 import Toast from 'react-bootstrap/Toast';
 
 function UploadItens(){
+
     const [selectedFile, setSelectedFile] = useState();
     const [objItensHeader, setObjItensHeader] = useState([]);
     const [objItens, setObjItens] = useState([]);
     const [showA, setShowA] = useState(false);
+
 
     const toggleShowA = () => setShowA(!showA);
 
@@ -17,12 +19,18 @@ function UploadItens(){
     const changeHandlerFileSend = (event) => {
         let fileCsv = selectedFile;
         papacsv.parse(fileCsv, {
-            complete:function(res){
-                sendObjItens(res.data);
+            complete:function(resCSV){
+                getHTMLDocument()
+                .then(function(resHTML){
+                    console.log('resHTML',resHTML);
+                    createObjItens(resCSV.data, resHTML);
+                });  
             }
         })
+
 	};
-    const mountObj = (obj) => {
+    
+    const mountObj = (obj, objhtml) => {
         let objItensCSV = [];
         for(var o = 0; o < obj.length; o++){
             if(o === 0){
@@ -30,23 +38,39 @@ function UploadItens(){
                     obj[o][0],
                     obj[o][1],
                     obj[o][2],
-                    obj[o][3]
+                    obj[o][3],
+                    "Descrição"
                 ])
                 continue;
+            }
+            let item_desc = null;
+            for(let ob = 0; ob < objhtml.length; ob++){
+                let csvName = obj[o][0].toLowerCase().trim();
+                let itemName = objhtml[ob].title.toLowerCase().trim();
+                if(csvName == itemName){
+                    item_desc = objhtml[ob].desc;
+                    break;
+                }
             }
             objItensCSV.push({
                 item_name:obj[o][0],
                 item_price:obj[o][1],
                 item_pagedmgmm:obj[o][2],
-                item_rarity:obj[o][3]
+                item_rarity:obj[o][3],
+                item_desc:item_desc
             });
         }
         objItensCSV.sort();
+        for(let i = 0; i < objItensCSV.length; i++){
+            if(!objItensCSV[i].item_desc){
+                console.log(objItensCSV[i].item_name);
+            }
+        }
         setObjItens(objItensCSV);
-        console.log('objItens',objItensHeader);
+        console.log('objItens',objItensCSV);
     }
-    const sendObjItens = (obj) =>{
-        mountObj(obj);
+    const createObjItens = (objCSV, objHTML) =>{
+        mountObj(objCSV, objHTML);
     }
    
     const sendItensDnd = () => {
@@ -57,6 +81,47 @@ function UploadItens(){
             if(res.data.status == 'success') toggleShowA();
         });
     }
+    function getTextChilds(parent){
+
+        let textHTML = parent.innerText;
+
+        if(parent.nextElementSibling && parent.nextElementSibling.nodeName != 'H3'){
+            textHTML += "<br>" + getTextChilds(parent.nextElementSibling);
+        }
+        return textHTML;
+    }
+
+    async function getHTMLDocument(){
+        console.log('Obtendo html.');
+        return axios.get('http://localhost:3000/dnd-tools/html/dd-5e-guia-do-mestre-biblioteca-elfica-151-215-v4.html')
+        .then(function(res){
+            let objItensAll = [];
+            const htmlObject = document.createElement('html');
+            htmlObject.innerHTML = res.data;
+            const containerHTML = htmlObject.querySelector('body').childNodes;
+            let objItens = {
+                "title":null,
+                "desc":null
+            };
+            let cleanHTML = [];
+            containerHTML.forEach(element => {
+                if(element.nodeName != 'text') cleanHTML.push(element);
+            });
+            const allTitles = cleanHTML.filter((elem)=>elem.nodeName == 'H3');
+            allTitles.forEach(element => {
+                if(element.innerText){
+                    objItens.title = element.innerText;
+                    objItens.desc = getTextChilds(element.nextElementSibling)
+                    objItensAll.push(objItens);
+                    objItens = {
+                        "title":null,
+                        "desc":null
+                    };
+                }
+            })
+            return objItensAll;
+        });
+    }   
 
     return(
         <div className="container-uploaditens mt-3">
@@ -90,6 +155,7 @@ function UploadItens(){
                                     <th>{item.item_price}</th>
                                     <th>{item.item_pagedmgmm}</th>
                                     <th>{item.item_rarity}</th>
+                                    <th dangerouslySetInnerHTML={{__html: item.item_desc}} ></th>
                                 </tr>
                             ))}
                         </tbody>
